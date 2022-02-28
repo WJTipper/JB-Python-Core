@@ -1,5 +1,5 @@
 # jb-python-core
-JetBrains Python Projects README
+JetBrains Python Core Projects README
 
 INTRODUCTION
 ============
