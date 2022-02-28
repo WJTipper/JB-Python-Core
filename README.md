@@ -1,12 +1,6 @@
 # JB-Python-Core
 JetBrains Python Projects README
 
-TABLE OF CONTENTS
-=================
-Introduction
-README
-Coffee Machine
-
 INTRODUCTION
 ============
 This repository contains the finished versions of projects written as part of the JetBrains Python Core track.
