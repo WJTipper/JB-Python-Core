@@ -6,11 +6,6 @@ INTRODUCTION
 This repository contains the finished versions of projects written as part of the JetBrains Python Core track.
 This track can be found at https://hyperskill.org/tracks/2.
 
-README
-======
-Explains the function of the other files in the repository.
-It is the file you are currently reading.
-
 COFFEE MACHINE
 ==========
 This project covers basic syntax and the use of conditions, loops, and functions.
