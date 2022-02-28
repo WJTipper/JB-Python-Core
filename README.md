@@ -1,4 +1,4 @@
-# JB-Python-Core
+# jb-python-core
 JetBrains Python Projects README
 
 INTRODUCTION
